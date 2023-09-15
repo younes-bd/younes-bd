@@ -1,4 +1,4 @@
-<h1>Hi, I'm Younes! <br/><a href="https://github.com/younes-bd">Programmer</a>, <a href="https://www.linkedin.com/in/yoounes-bd/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Younes! <br/><a href="https://github.com/younes-bd">Programmer</a>, <a href="https://www.linkedin.com/in/yoounes-bd/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
