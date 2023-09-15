@@ -1,7 +1,9 @@
 <h1>Hi, I'm Younes! <br/><a href="https://github.com/younes-bd">Programmer</a>, <a href="https://www.linkedin.com/in/yoounes-bd/">Cybersecurity Professional</a>
-
+https://github.com/younes-bd/ActiveDirectoryLab/
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+ - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
 
+<h2>👨‍💻 Software Developer Projects:</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -19,6 +21,8 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Cybersecurity Certification:</h2>
+- [CCNA: Enterprise Networking, Security, and Automation](https://github.com/younes-bd/ActiveDirectoryLab/)
+- [Google Cybersecurity Certificate](https://github.com/younes-bd/ActiveDirectoryLab/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
