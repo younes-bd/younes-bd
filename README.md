@@ -1,7 +1,7 @@
-<h1>Hi, I'm Younes! <br/><a href="https://github.com/younes-bd">Programmer</a>, <a href="https://www.linkedin.com/in/yoounes-bd/">Cybersecurity Professional</a>
-https://github.com/younes-bd/ActiveDirectoryLab/
+<h1>Hi, I'm Younes! <br/> <a href="https://www.linkedin.com/in/yoounes-bd/">Cybersecurity Professional</a>, <a href="https://github.com/younes-bd">Programmer</a>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
- - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
+  - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
 
 <h2>👨‍💻 Software Developer Projects:</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
