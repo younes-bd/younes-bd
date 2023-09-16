@@ -24,6 +24,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Cybersecurity Certification:</h2>
+
 - [CCNA: Enterprise Networking, Security, and Automation](https://github.com/younes-bd/ActiveDirectoryLab/)
 - [Google Cybersecurity Certificate](https://github.com/younes-bd/ActiveDirectoryLab/)
 
