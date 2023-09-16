@@ -1,11 +1,18 @@
 <h1>Hi, I'm Younes! <br/> <a href="https://www.linkedin.com/in/yoounes-bd/">Cybersecurity Professional</a>, <a href="https://github.com/younes-bd">Programmer</a>
   
-<b> My name is Younes. I am driven and passionate about safeguarding people’s security, including their financial well being. I enjoy working with technology and analyzing and solving complex problems. </b>
+<h3> My name is Younes. I am driven and passionate about safeguarding people’s security, including their financial well being. I enjoy working with technology and analyzing and solving complex problems. </h3>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
   - [Conduct a security audit](https://github.com/younes-bd/ActiveDirectoryLab/)
+  - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/younes-bd/ActiveDirectoryLab/)
+  - [Use Linux commands to manage file permissions](https://github.com/younes-bd/ActiveDirectoryLab/)
+  - [Apply filters to SQL queries](https://github.com/younes-bd/ActiveDirectoryLab/)
+  - [Analyze a vulnerable system for a small business](https://github.com/younes-bd/ActiveDirectoryLab/)
+  - [Document an incident with an incident handler's journal](https://github.com/younes-bd/ActiveDirectoryLab/)
+  - [Finalize your incident handler's journal](https://github.com/younes-bd/ActiveDirectoryLab/)
+  - [Update a file through a Python algorithm](https://github.com/younes-bd/ActiveDirectoryLab/)
 
 <h2>👨‍💻 Software Developer Projects:</h2>
 
