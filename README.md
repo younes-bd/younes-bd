@@ -5,11 +5,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
-  - [Conduct a security audit](https://github.com/younes-bd/ActiveDirectoryLab/)
-  - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/younes-bd/ActiveDirectoryLab/)
-  - [Use Linux commands to manage file permissions](https://github.com/younes-bd/ActiveDirectoryLab/)
-  - [Apply filters to SQL queries](https://github.com/younes-bd/ActiveDirectoryLab/)
-  - [Analyze a vulnerable system for a small business](https://github.com/younes-bd/ActiveDirectoryLab/)
+  - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
+  - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/younes-bd/NISTFramework/)
+  - [Use Linux commands to manage file permissions](https://github.com/younes-bd/LinuxCommandsFileManage/)
+  - [Apply filters to SQL queries](https://github.com/younes-bd/SQLQueriesFilters/)
+  - [Analyze a vulnerable system for a small business](https://github.com/younes-bd/AnalyzeVulnerableSystem/)
   - [Document an incident with an incident handler's journal](https://github.com/younes-bd/ActiveDirectoryLab/)
   - [Finalize your incident handler's journal](https://github.com/younes-bd/ActiveDirectoryLab/)
   - [Update a file through a Python algorithm](https://github.com/younes-bd/ActiveDirectoryLab/)
@@ -47,15 +47,15 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="younes-bd | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="younes-bd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="younes-bd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="younes-bd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/younes-bd
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
