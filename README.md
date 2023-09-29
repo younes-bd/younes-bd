@@ -10,8 +10,8 @@
   - [Use Linux commands to manage file permissions](https://github.com/younes-bd/LinuxCommandsFileManage/)
   - [Apply filters to SQL queries](https://github.com/younes-bd/SQLQueriesFilters/)
   - [Analyze a vulnerable system for a small business](https://github.com/younes-bd/AnalyzeVulnerableSystem/)
-  - [Document an incident with an incident handler's journal](https://github.com/younes-bd/ActiveDirectoryLab/)
-  - [Finalize your incident handler's journal](https://github.com/younes-bd/ActiveDirectoryLab/)
+  - [Document an incident with an incident handler's journal](https://github.com/younes-bd/DocumentIncidentJournal/)
+  - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
   - [Update a file through a Python algorithm](https://github.com/younes-bd/ActiveDirectoryLab/)
 
 <h2>👨‍💻 Software Developer Projects:</h2>
