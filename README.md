@@ -12,7 +12,7 @@
   - [Analyze a vulnerable system for a small business](https://github.com/younes-bd/AnalyzeVulnerableSystem/)
   - [Document an incident with an incident handler's journal](https://github.com/younes-bd/DocumentIncidentJournal/)
   - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
-  - [Update a file through a Python algorithm](https://github.com/younes-bd/UpdateFilePython/)
+  - [Update a file through a Python algorithm](https://github.com/younes-bd/UpdateFilePython-/)
 
 <h2>👨‍💻 Software Developer Projects:</h2>
 
