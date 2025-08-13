@@ -76,7 +76,7 @@ This repository serves as a hub for all my hands-on security projects, showcasin
 - **OS:** Linux (Kali, Ubuntu), Windows Server  
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -89,9 +89,8 @@ This repository serves as a hub for all my hands-on security projects, showcasin
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br/> #
+<br><br/> 
 
 
 <h2>👨‍💻 Cybersecurity Certification:</h2>
@@ -99,7 +98,9 @@ This repository serves as a hub for all my hands-on security projects, showcasin
 - [CCNA: Enterprise Networking, Security, and Automation](https://github.com/younes-bd/ActiveDirectoryLab/)
 - [Google Cybersecurity Certificate](https://github.com/younes-bd/ActiveDirectoryLab/)
 - [CCNA: Enterprise Networking, Security, and Automation](https://github.com/younes-bd/ActiveDirectoryLab/)
-- [Google Cybersecurity Certificate](https://github.com/younes-bd/ActiveDirectoryLab/)
+- [ISC2: Certified in Cybersecurity (CC)](https://www.credly.com/badges/f53c4706-5098-488d-b633-fdf47b7c7a22/public_url)
+- https://www.credly.com/badges/f53c4706-5098-488d-b633-fdf47b7c7a22/public_url
+
 
 ## 📊 Skills Matrix:
 | Category | Tools & Technologies |
