@@ -1,6 +1,5 @@
 <h1>Hi, I'm Younes! <br/> <a href="https://www.linkedin.com/in/yoounes-bd/">Cybersecurity Professional</a>, <a href="https://github.com/younes-bd">Programmer</a>
   
-<h3> 🛡️ Younes Bouderbello — Cybersecurity Analyst Portfolio My name is Younes. I am driven and passionate about safeguarding people’s security, including their financial well being. I enjoy working with technology and analyzing and solving complex problems. </h3>
 <h3> Welcome to my cybersecurity portfolio.  
 I specialize in threat detection, incident response, penetration testing, and digital forensics.  
 This repository serves as a hub for all my hands-on security projects, showcasing my skills in building, breaking, and securing systems. </h3>
@@ -16,20 +15,41 @@ This repository serves as a hub for all my hands-on security projects, showcasin
   - [Document an incident with an incident handler's journal](https://github.com/younes-bd/DocumentIncidentJournal/)
   - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
   - [SOC Automation with Python](https://github.com/younes-bd/UpdateFilePython-/)
-  - 
-  - [SIEM Threat Detection Lab ](https://github.com/younes-bd/AnalyzeVulnerableSystem/)
 
+  - ### 🛡️ [SIEM Threat Detection Lab](https://github.com/username/siem-threat-detection)
+  - Built a lab in Splunk to detect brute-force and phishing attacks.  
+  - Created custom correlation rules and alert dashboards.  
+  - **Tech:** Splunk, Sysmon, Windows Event Logs, Python.
+  
   - ### 📡 [Network Traffic Analysis](https://github.com/username/network-traffic-analysis)
   - Captured and analyzed PCAP files for suspicious activity.  
   - Used Wireshark and Suricata to detect malicious traffic patterns.  
   - **Tech:** Wireshark, Suricata, TCPDump.
+
   - ### 🔍 [Phishing Email Investigation](https://github.com/username/phishing-investigation)
   - Analyzed phishing emails and extracted IoCs for threat intel.  
   - Created investigation reports for SOC use.  
   - **Tech:** MISP, Python, Email Header Analysis.
-  - [Document an incident with an incident handler's journal](https://github.com/younes-bd/DocumentIncidentJournal/)
-  - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
-  - [Update a file through a Python algorithm](https://github.com/younes-bd/UpdateFilePython-/)
+  
+  - ### 🛠️ [Vulnerability Assessment Report](https://github.com/username/vulnerability-assessment)
+  - Performed vulnerability scans and documented results with mitigation steps.  
+  - Compared pre- and post-remediation results.  
+  - **Tech:** Nmap, OpenVAS/Nessus, Linux, Windows.
+
+  - ### 📜 [Incident Response Playbook](https://github.com/username/incident-response-playbook)
+  - Created IR playbooks for phishing, ransomware, brute-force, and insider threats.  
+  - Designed flowcharts and decision trees for fast response.  
+  - **Tech:** Draw.io, Markdown, Cyber Kill Chain.
+
+  ### 🐛 [Malware Traffic Analysis](https://github.com/username/malware-traffic-analysis)
+  - Identified C2 patterns from malicious traffic captures.  
+  - Documented IoCs and detection methods.  
+  - **Tech:** Wireshark, Suricata, PCAP Analysis.
+   
+  ### 🎯 [Honeypot Deployment](https://github.com/username/honeypot-deployment)
+  - Deployed a honeypot to monitor real-world attacks.  
+  - Collected and visualized attack patterns over time.  
+  - **Tech:** Cowrie, Dionaea, Python.
  
 <h2>👨‍💻 Software Developer Projects:</h2>
 
@@ -49,7 +69,11 @@ This repository serves as a hub for all my hands-on security projects, showcasin
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> 🧰 Languages and Tools </h2> 
+## 🧰 Tools & Technologies:
+**Security:** Splunk, ELK, Suricata, MISP, Sysmon, OpenVAS  
+**Networking:** Wireshark, TCPDump, Nmap  
+**Scripting:** Python, Bash, PowerShell  
+**OS:** Linux (Kali, Ubuntu), Windows Server  
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -75,7 +99,7 @@ This repository serves as a hub for all my hands-on security projects, showcasin
 - [CCNA: Enterprise Networking, Security, and Automation](https://github.com/younes-bd/ActiveDirectoryLab/)
 - [Google Cybersecurity Certificate](https://github.com/younes-bd/ActiveDirectoryLab/)
 
-## 📊 Skills Matrix
+## 📊 Skills Matrix:
 | Category | Tools & Technologies |
 |----------|----------------------|
 | Threat Detection & SIEM | Splunk, Sysmon, WEF, ELK |
@@ -87,13 +111,6 @@ This repository serves as a hub for all my hands-on security projects, showcasin
 | Penetration Testing | Burp Suite, OWASP ZAP, Kali Linux |
 | Digital Forensics | Autopsy, FTK Imager, Volatility |
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
