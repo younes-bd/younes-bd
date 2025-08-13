@@ -1,4 +1,4 @@
-<h1>Hi, I'm Younes! <br/> <a href="https://www.linkedin.com/in/yoounes-bd/">Cybersecurity Professional</a>, <a href="https://github.com/younes-bd">Programmer</a>
+<h1> Hi, I'm Younes ! <br/> <a href="https://www.linkedin.com/in/yoounes-bd/"> Cybersecurity Analyst </a>, <a href="https://github.com/younes-bd"> Cloud Security Professional</a>
   
 <h3> Welcome to my cybersecurity portfolio.  
 I specialize in threat detection, incident response, penetration testing, and digital forensics.  
@@ -70,10 +70,10 @@ This repository serves as a hub for all my hands-on security projects, showcasin
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 ## 🧰 Tools & Technologies:
-**Security:** Splunk, ELK, Suricata, MISP, Sysmon, OpenVAS  
-**Networking:** Wireshark, TCPDump, Nmap  
-**Scripting:** Python, Bash, PowerShell  
-**OS:** Linux (Kali, Ubuntu), Windows Server  
+- **Security:** Splunk, ELK, Suricata, MISP, Sysmon, OpenVAS  
+- **Networking:** Wireshark, TCPDump, Nmap  
+- **Scripting:** Python, Bash, PowerShell  
+- **OS:** Linux (Kali, Ubuntu), Windows Server  
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -91,11 +91,13 @@ This repository serves as a hub for all my hands-on security projects, showcasin
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-#
+<br/> #
+
 
 <h2>👨‍💻 Cybersecurity Certification:</h2>
 
+- [CCNA: Enterprise Networking, Security, and Automation](https://github.com/younes-bd/ActiveDirectoryLab/)
+- [Google Cybersecurity Certificate](https://github.com/younes-bd/ActiveDirectoryLab/)
 - [CCNA: Enterprise Networking, Security, and Automation](https://github.com/younes-bd/ActiveDirectoryLab/)
 - [Google Cybersecurity Certificate](https://github.com/younes-bd/ActiveDirectoryLab/)
 
