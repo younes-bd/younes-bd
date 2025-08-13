@@ -93,13 +93,13 @@ This repository serves as a hub for all my hands-on security projects, showcasin
 <br><br/> 
 
 
-<h2>👨‍💻 Cybersecurity Certification:</h2>
+## 👨‍💻 Cybersecurity Certification:
 
-- [CCNA: Enterprise Networking, Security, and Automation](https://github.com/younes-bd/ActiveDirectoryLab/)
-- [Google Cybersecurity Certificate](https://github.com/younes-bd/ActiveDirectoryLab/)
-- [CCNA: Enterprise Networking, Security, and Automation](https://github.com/younes-bd/ActiveDirectoryLab/)
+- [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/2a7044d8-4bf5-4115-b0a2-9d687064fab6/public_url)
+- [IBM: Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/f9b43a74-8bf6-4e9b-9845-db35690db643/public_url)
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/7a38ffca-26a8-4ed4-bb60-347e0e4e3a66/public_url)
 - [ISC2: Certified in Cybersecurity (CC)](https://www.credly.com/badges/f53c4706-5098-488d-b633-fdf47b7c7a22/public_url)
-- https://www.credly.com/badges/f53c4706-5098-488d-b633-fdf47b7c7a22/public_url
+
 
 
 ## 📊 Skills Matrix:
