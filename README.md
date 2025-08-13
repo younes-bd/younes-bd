@@ -1,8 +1,11 @@
 <h1>Hi, I'm Younes! <br/> <a href="https://www.linkedin.com/in/yoounes-bd/">Cybersecurity Professional</a>, <a href="https://github.com/younes-bd">Programmer</a>
   
-<h3> My name is Younes. I am driven and passionate about safeguarding people’s security, including their financial well being. I enjoy working with technology and analyzing and solving complex problems. </h3>
+<h3> 🛡️ Younes Bouderbello — Cybersecurity Analyst Portfolio My name is Younes. I am driven and passionate about safeguarding people’s security, including their financial well being. I enjoy working with technology and analyzing and solving complex problems. </h3>
+<h3> Welcome to my cybersecurity portfolio.  
+I specialize in threat detection, incident response, penetration testing, and digital forensics.  
+This repository serves as a hub for all my hands-on security projects, showcasing my skills in building, breaking, and securing systems. </h3>
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> 🛡️ Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
   - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
@@ -12,8 +15,22 @@
   - [Analyze a vulnerable system for a small business](https://github.com/younes-bd/AnalyzeVulnerableSystem/)
   - [Document an incident with an incident handler's journal](https://github.com/younes-bd/DocumentIncidentJournal/)
   - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
-  - [Update a file through a Python algorithm](https://github.com/younes-bd/UpdateFilePython-/)
+  - [SOC Automation with Python](https://github.com/younes-bd/UpdateFilePython-/)
+  - 
+  - [SIEM Threat Detection Lab ](https://github.com/younes-bd/AnalyzeVulnerableSystem/)
 
+  - ### 📡 [Network Traffic Analysis](https://github.com/username/network-traffic-analysis)
+  - Captured and analyzed PCAP files for suspicious activity.  
+  - Used Wireshark and Suricata to detect malicious traffic patterns.  
+  - **Tech:** Wireshark, Suricata, TCPDump.
+  - ### 🔍 [Phishing Email Investigation](https://github.com/username/phishing-investigation)
+  - Analyzed phishing emails and extracted IoCs for threat intel.  
+  - Created investigation reports for SOC use.  
+  - **Tech:** MISP, Python, Email Header Analysis.
+  - [Document an incident with an incident handler's journal](https://github.com/younes-bd/DocumentIncidentJournal/)
+  - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
+  - [Update a file through a Python algorithm](https://github.com/younes-bd/UpdateFilePython-/)
+ 
 <h2>👨‍💻 Software Developer Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -57,6 +74,18 @@
 
 - [CCNA: Enterprise Networking, Security, and Automation](https://github.com/younes-bd/ActiveDirectoryLab/)
 - [Google Cybersecurity Certificate](https://github.com/younes-bd/ActiveDirectoryLab/)
+
+## 📊 Skills Matrix
+| Category | Tools & Technologies |
+|----------|----------------------|
+| Threat Detection & SIEM | Splunk, Sysmon, WEF, ELK |
+| Network Security | Wireshark, Suricata, TCPDump |
+| Email & OSINT | PhishTool, Email Header Analysis, VirusTotal, MxToolbox |
+| Vulnerability Management | Nessus, OpenVAS, CVSS |
+| Malware Analysis | Cuckoo Sandbox, REMnux, FLARE VM |
+| Incident Response | TheHive, Cortex, Volatility |
+| Penetration Testing | Burp Suite, OWASP ZAP, Kali Linux |
+| Digital Forensics | Autopsy, FTK Imager, Volatility |
 
 <h2>📺 Popular YouTube Videos</h2>
 
