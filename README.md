@@ -36,7 +36,7 @@ This repository serves as a hub for all my hands-on security projects, showcasin
   - Compared pre- and post-remediation results.  
   - **Tech:** Nmap, OpenVAS/Nessus, Linux, Windows.
 
-  - ### 📜 [Incident Response Playbook](https://github.com/username/incident-response-playbook)
+  - ### 📜 [Incident Response Playbook](https://github.com/younes-bd/incident-response-simulation/blob/main/README.md)
   - Created IR playbooks for phishing, ransomware, brute-force, and insider threats.  
   - Designed flowcharts and decision trees for fast response.  
   - **Tech:** Draw.io, Markdown, Cyber Kill Chain.
