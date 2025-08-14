@@ -41,7 +41,7 @@ This repository serves as a hub for all my hands-on security projects, showcasin
   - Designed flowcharts and decision trees for fast response.  
   - **Tech:** Draw.io, Markdown, Cyber Kill Chain.
 
-  ### 🐛 [Malware Traffic Analysis](https://github.com/username/malware-traffic-analysis)
+  ### 🐛 [Malware Traffic Analysis](https://github.com/younes-bd/malware-analysis-sandbox/tree/main)
   - Identified C2 patterns from malicious traffic captures.  
   - Documented IoCs and detection methods.  
   - **Tech:** Wireshark, Suricata, PCAP Analysis.
