@@ -26,7 +26,7 @@ This repository serves as a hub for all my hands-on security projects, showcasin
   - Used Wireshark and Suricata to detect malicious traffic patterns.  
   - **Tech:** Wireshark, Suricata, TCPDump.
 
-  - ### 🔍 [Phishing Email Investigation](https://github.com/username/phishing-investigation)
+  - ### 🔍 [Phishing Email Investigation](https://github.com/younes-bd/phishing-email-investigation/tree/main)
   - Analyzed phishing emails and extracted IoCs for threat intel.  
   - Created investigation reports for SOC use.  
   - **Tech:** MISP, Python, Email Header Analysis.
