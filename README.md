@@ -45,6 +45,11 @@ This repository serves as a hub for all my hands-on security projects, showcasin
   - Identified C2 patterns from malicious traffic captures.  
   - Documented IoCs and detection methods.  
   - **Tech:** Wireshark, Suricata, PCAP Analysis.
+
+  ### 🎯 [Web App Penetration Testing](https://github.com/younes-bd/web-app-penetration-testing/tree/main?tab=readme-ov-file#web-app-penetration-testing)
+  - Deployed a honeypot to monitor real-world attacks.  
+  - Collected and visualized attack patterns over time.  
+  - **Tech:** Cowrie, Dionaea, Python.
    
   ### 🎯 [Honeypot Deployment](https://github.com/username/honeypot-deployment)
   - Deployed a honeypot to monitor real-world attacks.  
