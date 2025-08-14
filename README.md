@@ -31,7 +31,7 @@ This repository serves as a hub for all my hands-on security projects, showcasin
   - Created investigation reports for SOC use.  
   - **Tech:** MISP, Python, Email Header Analysis.
   
-  - ### 🛠️ [Vulnerability Assessment Report](https://github.com/username/vulnerability-assessment)
+  - ### 🛠️ [Vulnerability Assessment Report](https://github.com/younes-bd/vulnerability-management-lab/tree/main)
   - Performed vulnerability scans and documented results with mitigation steps.  
   - Compared pre- and post-remediation results.  
   - **Tech:** Nmap, OpenVAS/Nessus, Linux, Windows.
