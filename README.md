@@ -50,6 +50,11 @@ This repository serves as a hub for all my hands-on security projects, showcasin
   - Deployed a honeypot to monitor real-world attacks.  
   - Collected and visualized attack patterns over time.  
   - **Tech:** Cowrie, Dionaea, Python.
+
+   ### 🎯 [digital-forensics-case-study](https://github.com/younes-bd/digital-forensics-case-study/tree/main)
+  - Deployed a honeypot to monitor real-world attacks.  
+  - Collected and visualized attack patterns over time.  
+  - **Tech:** Cowrie, Dionaea, Python.
    
   ### 🎯 [Honeypot Deployment](https://github.com/username/honeypot-deployment)
   - Deployed a honeypot to monitor real-world attacks.  
