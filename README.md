@@ -16,7 +16,7 @@ This repository serves as a hub for all my hands-on security projects, showcasin
   - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
   - [SOC Automation with Python](https://github.com/younes-bd/UpdateFilePython-/)
 
-  - ### 🛡️ [SIEM Threat Detection Lab](https://github.com/username/siem-threat-detection)
+  - ### 🛡️ [SIEM Threat Detection Lab](https://github.com/younes-bd/siem-threat-detection-lab/tree/main)
   - Built a lab in Splunk to detect brute-force and phishing attacks.  
   - Created custom correlation rules and alert dashboards.  
   - **Tech:** Splunk, Sysmon, Windows Event Logs, Python.
