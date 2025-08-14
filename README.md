@@ -21,7 +21,7 @@ This repository serves as a hub for all my hands-on security projects, showcasin
   - Created custom correlation rules and alert dashboards.  
   - **Tech:** Splunk, Sysmon, Windows Event Logs, Python.
   
-  - ### 📡 [Network Traffic Analysis](https://github.com/username/network-traffic-analysis)
+  - ### 📡 [Network Traffic Analysis](https://github.com/younes-bd/network-traffic-analysis/tree/main)
   - Captured and analyzed PCAP files for suspicious activity.  
   - Used Wireshark and Suricata to detect malicious traffic patterns.  
   - **Tech:** Wireshark, Suricata, TCPDump.
