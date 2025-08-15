@@ -1,8 +1,8 @@
-<h1> Hi, I'm Younes ! <br/> <a href="https://www.linkedin.com/in/yoounes-bd/"> Cybersecurity Analyst </a>, <a href="https://github.com/younes-bd"> Cloud Security Professional</a>
+<h1> Hi, I'm Younes ! <br/> <a href="https://www.linkedin.com/in/yoounes-bd/"> Cybersecurity Analyst </a>, <a href="https://github.com/younes-bd"> Cloud Security Professional</a><br/>
 **Threat Detection | Incident Response | SOC Automation**
 ---
 
-<h3> Welcome to my cybersecurity portfolio.  
+<h3> Welcome to my cybersecurity portfolio. <br/> 
 Cybersecurity analyst with hands-on expertise I specialize in threat detection, incident response, penetration testing, and digital forensics.  
 This repository serves as a hub for all my hands-on security projects, showcasing my skills in building, breaking, and securing systems. </h3>
   
@@ -11,29 +11,29 @@ This repository serves as a hub for all my hands-on security projects, showcasin
    #### 1.🛡️ Security Monitoring & SIEM 
    - [SIEM Threat Detection Lab](https://github.com/younes-bd/siem-threat-detection-lab/tree/main)
    - [SOC Automation with Python](https://github.com/younes-bd/UpdateFilePython-/)
-    
    #### 2.📜 Incident Response
    - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/younes-bd/NISTFramework/)
    - [Document an incident with an incident handler's journal](https://github.com/younes-bd/DocumentIncidentJournal/)
    - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
-  
    #### 3.🐛 Threat Detection & Analysis
    - [Analyze a vulnerable system for a small business](https://github.com/younes-bd/AnalyzeVulnerableSystem/)
    - [Phishing Email Investigation](https://github.com/younes-bd/phishing-email-investigation/tree/main)
-    
    #### 4.🛠️ Vulnerability Management
    - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
    - [Vulnerability Assessment Report](https://github.com/younes-bd/vulnerability-management-lab/tree/main)
-
    #### 5.🔍 Digital Forensics
    - [digital-forensics-case-study](https://github.com/younes-bd/digital-forensics-case-study/tree/main)
-   
    #### 6.📡 Network & Traffic Analysis
    - [Network Traffic Analysis](https://github.com/younes-bd/network-traffic-analysis/tree/main)
+   #### 7.🛡️ System Administration & Security
+   - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
+   - [Use Linux commands to manage file permissions](https://github.com/younes-bd/LinuxCommandsFileManage/) 
+   #### 8.🛡️ Web & Database Security
+   - [Apply filters to SQL queries](https://github.com/younes-bd/SQLQueriesFilters/)
+   - [Web App Penetration Testing](https://github.com/younes-bd/web-app-penetration-testing/tree/main?tab=readme-ov-file#web-app-penetration-testing)
+   #### 9.🛡️ Cloud Security
+
    
-   ### 7.🛡️ System Administration & Security
-   ### 8.🛡️ Web & Database Security
-   ### 9.🛡️ Cloud Security
   - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
   - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/younes-bd/NISTFramework/)
