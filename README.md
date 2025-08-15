@@ -32,7 +32,8 @@ This repository serves as a hub for all my hands-on security projects, showcasin
    - [Apply filters to SQL queries](https://github.com/younes-bd/SQLQueriesFilters/)
    - [Web App Penetration Testing](https://github.com/younes-bd/web-app-penetration-testing/tree/main?tab=readme-ov-file#web-app-penetration-testing)
    #### 9.🛡️ Cloud Security
-
+   - [AWS Security Incident Simulation](https://github.com/younes-bd/ActiveDirectoryLab/)
+   - [Azure Security Monitoring Lab](https://github.com/younes-bd/ConductSecurityAudit/)
    
   - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
   - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
