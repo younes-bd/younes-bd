@@ -12,6 +12,20 @@ Cybersecurity analyst with hands-on expertise in threat detection, vulnerability
 Proficient in building, testing, and securing enterprise-grade environments using industry-standard tools and frameworks, including **NIST Cybersecurity Framework**, **Splunk**, **SIEM**, and **Cloud Security** platforms.  
 Adept at translating complex security challenges into actionable solutions that reduce risk and strengthen defenses.
 
+---
+
+## 🛠 Core Competencies  
+![Python Security Automation](https://img.shields.io/badge/Python-Security_Automation-1E90FF?style=flat&logo=python)
+![Threat Hunting](https://img.shields.io/badge/Threat-Hunting-FF4500?style=flat)
+![SOC Operations](https://img.shields.io/badge/SOC-Operations-2E8B57?style=flat)
+![Incident Handling](https://img.shields.io/badge/Incident-Handling-8B0000?style=flat)
+![Active Directory Security](https://img.shields.io/badge/Active_Directory-Security-000080?style=flat)
+![Linux Security](https://img.shields.io/badge/Linux-Security-FFCC00?style=flat&logo=linux)
+![SQL Security](https://img.shields.io/badge/SQL-Security-4682B4?style=flat&logo=mysql)
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-4169E1?style=flat&logo=icloud)
+
+---
+
 <h2> 🛡️ Cybersecurity Projects:</h2>
 
    #### 1.🛡️ SOC Operations & SIEM 
