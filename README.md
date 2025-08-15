@@ -25,7 +25,29 @@ Adept at translating complex security challenges into actionable solutions that 
 ![Cloud Security](https://img.shields.io/badge/Cloud-Security-4169E1?style=flat&logo=icloud)
 
 ---
+## 📂 Portfolio Projects  
 
+### **1. Incident Response & Handling**
+- [**Use the NIST Cybersecurity Framework to Respond to a Security Incident**](https://github.com/younes-bd/nist-incident-response) – Applied NIST CSF to a simulated incident scenario, producing a structured response plan.
+- [**Document an Incident with an Incident Handler's Journal**](https://github.com/younes-bd/incident-handlers-journal) – Maintained a detailed incident log to ensure evidence integrity and timeline accuracy.
+- [**Finalize Your Incident Handler's Journal**](https://github.com/younes-bd/final-incident-journal) – Produced a complete case record for handoff to security leadership.
+
+### **2. SOC Operations & Automation**
+- [**SOC Automation with Python**](https://github.com/younes-bd/soc-automation-python) – Built scripts to automate alert triage and log analysis, improving SOC efficiency.
+- [**Analyze a Vulnerable System for a Small Business**](https://github.com/younes-bd/vulnerability-analysis-smallbiz) – Assessed system weaknesses and delivered actionable remediation steps.
+
+### **3. Systems & Network Security**
+- [**Active Directory Home Lab**](https://github.com/younes-bd/active-directory-lab) – Designed a Windows AD lab to simulate enterprise user management and security policies.
+- [**Conduct a Security Audit**](https://github.com/younes-bd/security-audit-lab) – Performed configuration and policy compliance audits in a simulated corporate environment.
+
+### **4. OS & Database Security**
+- [**Use Linux Commands to Manage File Permissions**](https://github.com/younes-bd/linux-permissions-lab) – Hardened a Linux environment through correct file ownership and permission settings.
+- [**Apply Filters to SQL Queries**](https://github.com/younes-bd/sql-security-filters) – Secured SQL data access by applying query filters to prevent unauthorized data exposure.
+
+### **5. Cloud Security**
+- [**Cloud Security Configuration Review**](https://github.com/younes-bd/cloud-security-review) – Assessed Azure and AWS environments for misconfigurations, applying CIS Benchmarks for remediation.
+
+---
 <h2> 🛡️ Cybersecurity Projects:</h2>
 
    #### 1.🛡️ SOC Operations & SIEM 
