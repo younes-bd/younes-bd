@@ -10,7 +10,6 @@
 ## 🔍 Summary  
 Cybersecurity analyst with hands-on expertise in threat detection, vulnerability assessment, incident response, and security automation.  
 Proficient in building, testing, and securing enterprise-grade environments using industry-standard tools and frameworks, including **NIST Cybersecurity Framework**, **Splunk**, **SIEM**, and **Cloud Security** platforms.  
-Adept at translating complex security challenges into actionable solutions that reduce risk and strengthen defenses.
 
 ---
 
