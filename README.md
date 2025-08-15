@@ -1,3 +1,7 @@
+<!-- BitGuard Portfolio Banner -->
+<p align="center">
+  <img src="assets/bitguard_cyan_banner.png" alt="BitGuard - Cybersecurity Analyst Portfolio" width="800">
+</p>
 
 # Younes – Cybersecurity Analyst  
 **Threat Detection | Incident Response | SOC Automation**
