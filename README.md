@@ -1,11 +1,13 @@
-<h1> Hi, I'm Younes ! <br/> <a href="https://www.linkedin.com/in/yoounes-bd/"> Cybersecurity Analyst </a>, <a href="https://github.com/younes-bd"> Cloud Security Professional</a><br/>
-**Threat Detection | Incident Response | SOC Automation**
----
 
-<h3> Welcome to my cybersecurity portfolio. <br/> 
-Cybersecurity analyst with hands-on expertise I specialize in threat detection, incident response, penetration testing, and digital forensics.  
-This repository serves as a hub for all my hands-on security projects, showcasing my skills in building, breaking, and securing systems. </h3>
-  
+# Younes – Cybersecurity Analyst  
+**Threat Detection | Incident Response | SOC Automation**
+
+---
+## 🔍 Summary  
+Cybersecurity analyst with hands-on expertise in threat detection, vulnerability assessment, incident response, and security automation.  
+Proficient in building, testing, and securing enterprise-grade environments using industry-standard tools and frameworks, including **NIST Cybersecurity Framework**, **Splunk**, **SIEM**, and **Cloud Security** platforms.  
+Adept at translating complex security challenges into actionable solutions that reduce risk and strengthen defenses.
+
 <h2> 🛡️ Cybersecurity Projects:</h2>
 
    #### 1.🛡️ SOC Operations & SIEM 
