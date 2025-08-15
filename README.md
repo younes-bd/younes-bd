@@ -1,11 +1,21 @@
 <h1> Hi, I'm Younes ! <br/> <a href="https://www.linkedin.com/in/yoounes-bd/"> Cybersecurity Analyst </a>, <a href="https://github.com/younes-bd"> Cloud Security Professional</a>
-  
+**Threat Detection | Incident Response | SOC Automation**
+---
+
 <h3> Welcome to my cybersecurity portfolio.  
-I specialize in threat detection, incident response, penetration testing, and digital forensics.  
+Cybersecurity analyst with hands-on expertise I specialize in threat detection, incident response, penetration testing, and digital forensics.  
 This repository serves as a hub for all my hands-on security projects, showcasing my skills in building, breaking, and securing systems. </h3>
   
 <h2> 🛡️ Cybersecurity Projects:</h2>
+ 
 
+   ### 🛡️ Security Monitoring & SIEM 
+   ### 📜 Incident Response
+   ### 3.🐛 Threat Hunting & Analysis
+   ### 4.🛠️ Vulnerability Management
+   ### 5.🔍 Digital Forensics
+   ### 6.📡 Network & Traffic Analysis
+   ### 7.🛡️ System Administration & Security
   - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
   - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/younes-bd/NISTFramework/)
