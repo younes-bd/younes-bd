@@ -23,7 +23,6 @@ Adept at translating complex security challenges into actionable solutions that 
 ![Linux Security](https://img.shields.io/badge/Linux-Security-FFCC00?style=flat&logo=linux)
 ![SQL Security](https://img.shields.io/badge/SQL-Security-4682B4?style=flat&logo=mysql)
 ![Cloud Security](https://img.shields.io/badge/Cloud-Security-4169E1?style=flat&logo=icloud)
-## Core Skills
 ![SOC Operations](https://img.shields.io/badge/SOC%20Operations-Expert-green)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-Advanced-blue)
 ![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-Advanced-purple)
@@ -55,14 +54,16 @@ Adept at translating complex security challenges into actionable solutions that 
 ---
 <h2> 🛡️ Cybersecurity Projects:</h2>
 
-   #### 1.🛡️ SOC Operations & SIEM 
-   - [SIEM Threat Detection Lab](https://github.com/younes-bd/siem-threat-detection-lab/tree/main)
-   - [SOC Automation with Python](https://github.com/younes-bd/UpdateFilePython-/)
-   #### 2.📜 Incident Response
+  #### 1.📜 Incident Response & Handling
    - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/younes-bd/NISTFramework/)
    - [Document an incident with an incident handler's journal](https://github.com/younes-bd/DocumentIncidentJournal/)
    - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
-   #### 3.🛠️ Threat & Vulnerability Analysis
+
+   #### 2.🛡️ SOC Operations & Automation
+   - [SIEM Threat Detection Lab](https://github.com/younes-bd/siem-threat-detection-lab/tree/main)
+   - [SOC Automation with Python](https://github.com/younes-bd/UpdateFilePython-/)
+   
+   #### 3.🛠️ Threat & Vulnerability Managment
    - [Analyze a vulnerable system for a small business](https://github.com/younes-bd/AnalyzeVulnerableSystem/)
    - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
    - [Vulnerability Assessment Report](https://github.com/younes-bd/vulnerability-management-lab/tree/main)
