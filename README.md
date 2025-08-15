@@ -23,7 +23,12 @@ Adept at translating complex security challenges into actionable solutions that 
 ![Linux Security](https://img.shields.io/badge/Linux-Security-FFCC00?style=flat&logo=linux)
 ![SQL Security](https://img.shields.io/badge/SQL-Security-4682B4?style=flat&logo=mysql)
 ![Cloud Security](https://img.shields.io/badge/Cloud-Security-4169E1?style=flat&logo=icloud)
-
+## Core Skills
+![SOC Operations](https://img.shields.io/badge/SOC%20Operations-Expert-green)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-Advanced-blue)
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-Advanced-purple)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-Intermediate-orange)
+![Security Automation](https://img.shields.io/badge/Security%20Automation-Advanced-red)
 ---
 ## 📂 Portfolio Projects  
 
