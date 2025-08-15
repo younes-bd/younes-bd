@@ -72,6 +72,12 @@ Adept at translating complex security challenges into actionable solutions that 
    - [**Use Linux commands to manage file permissions**](https://github.com/younes-bd/LinuxCommandsFileManage/)
    - [**Network Traffic Analysis**](https://github.com/younes-bd/network-traffic-analysis/tree/main)
    - [**digital-forensics-case-study**](https://github.com/younes-bd/digital-forensics-case-study/tree/main)
+
+   <b>**3.🛡️ Systems & Network Security**</b>
+   - [**Active Directory Home Lab**](https://github.com/younes-bd/ActiveDirectoryLab/)
+   - [**Use Linux commands to manage file permissions**](https://github.com/younes-bd/LinuxCommandsFileManage/)
+   - [**Network Traffic Analysis**](https://github.com/younes-bd/network-traffic-analysis/tree/main)
+   - [**digital-forensics-case-study**](https://github.com/younes-bd/digital-forensics-case-study/tree/main)
   
    ### **4.🛡️ Web & Cloud Security**
    - [**AWS Security Incident Simulation**](https://github.com/younes-bd/ActiveDirectoryLab/)
@@ -89,50 +95,7 @@ Adept at translating complex security challenges into actionable solutions that 
   - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
   - [SOC Automation with Python](https://github.com/younes-bd/UpdateFilePython-/)
 
-  - ### 🛡️ [SIEM Threat Detection Lab](https://github.com/younes-bd/siem-threat-detection-lab/tree/main)
-  - Built a lab in Splunk to detect brute-force and phishing attacks.  
-  - Created custom correlation rules and alert dashboards.  
-  - **Tech:** Splunk, Sysmon, Windows Event Logs, Python.
-  
-  - ### 📡 [Network Traffic Analysis](https://github.com/younes-bd/network-traffic-analysis/tree/main)
-  - Captured and analyzed PCAP files for suspicious activity.  
-  - Used Wireshark and Suricata to detect malicious traffic patterns.  
-  - **Tech:** Wireshark, Suricata, TCPDump.
 
-  - ### 🔍 [Phishing Email Investigation](https://github.com/younes-bd/phishing-email-investigation/tree/main)
-  - Analyzed phishing emails and extracted IoCs for threat intel.  
-  - Created investigation reports for SOC use.  
-  - **Tech:** MISP, Python, Email Header Analysis.
-  
-  - ### 🛠️ [Vulnerability Assessment Report](https://github.com/younes-bd/vulnerability-management-lab/tree/main)
-  - Performed vulnerability scans and documented results with mitigation steps.  
-  - Compared pre- and post-remediation results.  
-  - **Tech:** Nmap, OpenVAS/Nessus, Linux, Windows.
-
-  - ### 📜 [Incident Response Playbook](https://github.com/younes-bd/incident-response-simulation/blob/main/README.md)
-  - Created IR playbooks for phishing, ransomware, brute-force, and insider threats.  
-  - Designed flowcharts and decision trees for fast response.  
-  - **Tech:** Draw.io, Markdown, Cyber Kill Chain.
-
-  ### 🐛 [Malware Traffic Analysis](https://github.com/younes-bd/malware-analysis-sandbox/tree/main)
-  - Identified C2 patterns from malicious traffic captures.  
-  - Documented IoCs and detection methods.  
-  - **Tech:** Wireshark, Suricata, PCAP Analysis.
-
-  ### 🎯 [Web App Penetration Testing](https://github.com/younes-bd/web-app-penetration-testing/tree/main?tab=readme-ov-file#web-app-penetration-testing)
-  - Deployed a honeypot to monitor real-world attacks.  
-  - Collected and visualized attack patterns over time.  
-  - **Tech:** Cowrie, Dionaea, Python.
-
-   ### 🎯 [digital-forensics-case-study](https://github.com/younes-bd/digital-forensics-case-study/tree/main)
-  - Deployed a honeypot to monitor real-world attacks.  
-  - Collected and visualized attack patterns over time.  
-  - **Tech:** Cowrie, Dionaea, Python.
-   
-  ### 🎯 [Honeypot Deployment](https://github.com/username/honeypot-deployment)
-  - Deployed a honeypot to monitor real-world attacks.  
-  - Collected and visualized attack patterns over time.  
-  - **Tech:** Cowrie, Dionaea, Python.
  
 <h2>👨‍💻 Software Developer Projects:</h2>
 
@@ -178,10 +141,10 @@ Adept at translating complex security challenges into actionable solutions that 
 
 ## 👨‍💻 Cybersecurity Certification:
 
-- [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/2a7044d8-4bf5-4115-b0a2-9d687064fab6/public_url)
-- [IBM: Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/f9b43a74-8bf6-4e9b-9845-db35690db643/public_url)
-- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/7a38ffca-26a8-4ed4-bb60-347e0e4e3a66/public_url)
-- [ISC2: Certified in Cybersecurity (CC)](https://www.credly.com/badges/f53c4706-5098-488d-b633-fdf47b7c7a22/public_url)
+- [**CCNA: Enterprise Networking, Security, and Automation**](https://www.credly.com/badges/2a7044d8-4bf5-4115-b0a2-9d687064fab6/public_url)
+- [**IBM: Cybersecurity Analyst Professional Certificate**](https://www.credly.com/badges/f9b43a74-8bf6-4e9b-9845-db35690db643/public_url)
+- [**Google Cybersecurity Professional Certificate**](https://www.credly.com/badges/7a38ffca-26a8-4ed4-bb60-347e0e4e3a66/public_url)
+- [**ISC2: Certified in Cybersecurity (CC)**](https://www.credly.com/badges/f53c4706-5098-488d-b633-fdf47b7c7a22/public_url)
 
 
 
