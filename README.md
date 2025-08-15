@@ -21,17 +21,16 @@ This repository serves as a hub for all my hands-on security projects, showcasin
    #### 4.🛠️ Vulnerability Management
    - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
    - [Vulnerability Assessment Report](https://github.com/younes-bd/vulnerability-management-lab/tree/main)
-   #### 5.🔍 Digital Forensics
-   - [digital-forensics-case-study](https://github.com/younes-bd/digital-forensics-case-study/tree/main)
-   #### 6.📡 Network & Traffic Analysis
-   - [Network Traffic Analysis](https://github.com/younes-bd/network-traffic-analysis/tree/main)
-   #### 7.🛡️ System Administration & Security
+   #### 5.🛡️ Systems & Network Security
    - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
-   - [Use Linux commands to manage file permissions](https://github.com/younes-bd/LinuxCommandsFileManage/) 
-   #### 8.🛡️ Web & Database Security
+   - [Use Linux commands to manage file permissions](https://github.com/younes-bd/LinuxCommandsFileManage/)
+   - [Network Traffic Analysis](https://github.com/younes-bd/network-traffic-analysis/tree/main)
+   #### 6.🔍 Digital Forensics
+   - [digital-forensics-case-study](https://github.com/younes-bd/digital-forensics-case-study/tree/main)
+   #### 7.🛡️ Web & Database Security
    - [Apply filters to SQL queries](https://github.com/younes-bd/SQLQueriesFilters/)
    - [Web App Penetration Testing](https://github.com/younes-bd/web-app-penetration-testing/tree/main?tab=readme-ov-file#web-app-penetration-testing)
-   #### 9.🛡️ Cloud Security
+   #### 8.🛡️ Cloud Security
    - [AWS Security Incident Simulation](https://github.com/younes-bd/ActiveDirectoryLab/)
    - [Azure Security Monitoring Lab](https://github.com/younes-bd/ConductSecurityAudit/)
    
