@@ -24,9 +24,13 @@ This repository serves as a hub for all my hands-on security projects, showcasin
    #### 4.🛠️ Vulnerability Management
    - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
    - [Vulnerability Assessment Report](https://github.com/younes-bd/vulnerability-management-lab/tree/main)
-   - 
-   ### 5.🔍 Digital Forensics
-   ### 6.📡 Network & Traffic Analysis
+
+   #### 5.🔍 Digital Forensics
+   - [digital-forensics-case-study](https://github.com/younes-bd/digital-forensics-case-study/tree/main)
+   
+   #### 6.📡 Network & Traffic Analysis
+   - [Network Traffic Analysis](https://github.com/younes-bd/network-traffic-analysis/tree/main)
+   
    ### 7.🛡️ System Administration & Security
    ### 8.🛡️ Web & Database Security
    ### 9.🛡️ Cloud Security
