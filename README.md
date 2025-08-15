@@ -9,13 +9,22 @@ This repository serves as a hub for all my hands-on security projects, showcasin
 <h2> 🛡️ Cybersecurity Projects:</h2>
  
 
-   ### 🛡️ Security Monitoring & SIEM 
-   ### 📜 Incident Response
+   #### 🛡️ Security Monitoring & SIEM 
+   - [SIEM Threat Detection Lab](https://github.com/younes-bd/siem-threat-detection-lab/tree/main)
+   - [SOC Automation with Python](https://github.com/younes-bd/UpdateFilePython-/)
+    
+   #### 📜 Incident Response
+   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/younes-bd/NISTFramework/)
+   - [Document an incident with an incident handler's journal](https://github.com/younes-bd/DocumentIncidentJournal/)
+   - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
+  
    ### 3.🐛 Threat Hunting & Analysis
    ### 4.🛠️ Vulnerability Management
    ### 5.🔍 Digital Forensics
    ### 6.📡 Network & Traffic Analysis
    ### 7.🛡️ System Administration & Security
+   ### 8.🛡️ Web & Database Security
+   ### 9.🛡️ Cloud Security
   - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
   - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/younes-bd/NISTFramework/)
