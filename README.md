@@ -54,32 +54,30 @@ Adept at translating complex security challenges into actionable solutions that 
 ---
 <h2> 🛡️ Cybersecurity Projects:</h2>
 
-  #### 1.📜 Incident Response & Handling
+  #### 1.📜 Incident Response & SOC Operations
    - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/younes-bd/NISTFramework/)
    - [Document an incident with an incident handler's journal](https://github.com/younes-bd/DocumentIncidentJournal/)
    - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
-
-   #### 2.🛡️ SOC Operations & Automation
-   - [SIEM Threat Detection Lab](https://github.com/younes-bd/siem-threat-detection-lab/tree/main)
    - [SOC Automation with Python](https://github.com/younes-bd/UpdateFilePython-/)
+   - [SIEM Threat Detection Lab](https://github.com/younes-bd/siem-threat-detection-lab/tree/main)
    
-   #### 3.🛠️ Threat & Vulnerability Managment
+   #### 2.🛠️ Threat & Vulnerability Managment
    - [Analyze a vulnerable system for a small business](https://github.com/younes-bd/AnalyzeVulnerableSystem/)
    - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
    - [Vulnerability Assessment Report](https://github.com/younes-bd/vulnerability-management-lab/tree/main)
    - [Phishing Email Investigation](https://github.com/younes-bd/phishing-email-investigation/tree/main)
-   #### 4.🛡️ Systems & Network Security
+  
+   #### 3.🛡️ Systems & Network Security
    - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
    - [Use Linux commands to manage file permissions](https://github.com/younes-bd/LinuxCommandsFileManage/)
    - [Network Traffic Analysis](https://github.com/younes-bd/network-traffic-analysis/tree/main)
-   #### 5.🔍 Digital Forensics
    - [digital-forensics-case-study](https://github.com/younes-bd/digital-forensics-case-study/tree/main)
-   #### 6.🛡️ Web & Database Security
-   - [Apply filters to SQL queries](https://github.com/younes-bd/SQLQueriesFilters/)
-   - [Web App Penetration Testing](https://github.com/younes-bd/web-app-penetration-testing/tree/main?tab=readme-ov-file#web-app-penetration-testing)
-   #### 8.🛡️ Cloud Security
+  
+   #### 4.🛡️ Web & Cloud Security
    - [AWS Security Incident Simulation](https://github.com/younes-bd/ActiveDirectoryLab/)
    - [Azure Security Monitoring Lab](https://github.com/younes-bd/ConductSecurityAudit/)
+   - [Apply filters to SQL queries](https://github.com/younes-bd/SQLQueriesFilters/)
+   - [Web App Penetration Testing](https://github.com/younes-bd/web-app-penetration-testing/tree/main?tab=readme-ov-file#web-app-penetration-testing)
    
   - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
   - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
