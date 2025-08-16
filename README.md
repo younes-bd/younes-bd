@@ -7,13 +7,13 @@
 **Threat Detection | Incident Response | SOC Automation**
 
 ---
-## 🔍 Summary  
+## 🔍 Summary:  
 Cybersecurity analyst with hands-on expertise in threat detection, vulnerability assessment, incident response, and security automation.  
 Proficient in building, testing, and securing enterprise-grade environments using industry-standard tools and frameworks, including **NIST Cybersecurity Framework**, **Splunk**, **SIEM**, and **Cloud Security** platforms.  
 
 ---
 
-## 🛠 Core Competencies  
+## 🛠 Core Competencies: 
 ![Python Security Automation](https://img.shields.io/badge/Python-Security_Automation-1E90FF?style=flat&logo=python)
 ![Threat Hunting](https://img.shields.io/badge/Threat-Hunting-FF4500?style=flat)
 ![SOC Operations](https://img.shields.io/badge/SOC-Operations-2E8B57?style=flat)
