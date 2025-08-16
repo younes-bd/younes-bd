@@ -3,11 +3,12 @@
   <img src="assets/bitguard_cyan_banner.png" alt="younes - Cybersecurity Analyst Portfolio" width="800">
 </p>
 
-# Younes – Cybersecurity Analyst  
-**Threat Detection | Incident Response | SOC Automation**
+# 👋 Hi, I'm Younes Bouderbala  
+**💻 Cybersecurity Analyst | IT Security & Network Solutions | Incident Response | SOC Automation | Threat Detection** <br><br/> 
+🔐 Passionate about protecting systems, building resilient networks, and delivering secure IT solutions.
 
 ---
-## 🔍 Summary:  
+## 📌 About Me:  
 Cybersecurity analyst with hands-on expertise in threat detection, vulnerability assessment, incident response, and security automation.  
 Proficient in building, testing, and securing enterprise-grade environments using industry-standard tools and frameworks, including **NIST Cybersecurity Framework**, **Splunk**, **SIEM**, and **Cloud Security** platforms.  
 
