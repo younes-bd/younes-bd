@@ -25,7 +25,7 @@ Proficient in building, testing, and securing enterprise-grade environments usin
 ![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-Advanced-purple)
 ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-Intermediate-orange)
 ![Security Automation](https://img.shields.io/badge/Security%20Automation-Advanced-red)
----
+
 
 ## 📂 Cybersecurity Projects:
 
