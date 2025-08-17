@@ -7,12 +7,9 @@
 **💻 Cybersecurity Analyst | IT Security & Network Solutions | Incident Response | SOC Automation | Threat Detection** <br><br/> 
 🔐 Passionate about protecting systems, building resilient networks, and delivering secure IT solutions.
 
----
 ## 🙋‍♂️ About Me:  
 Cybersecurity analyst with hands-on expertise in threat detection, vulnerability assessment, incident response, and security automation.  
 Proficient in building, testing, and securing enterprise-grade environments using industry-standard tools and frameworks, including **NIST Cybersecurity Framework**, **Splunk**, **SIEM**, and **Cloud Security** platforms.  
-
----
 
 ## 🔑 Core Competencies: 
 ![Python Security Automation](https://img.shields.io/badge/Python-Security_Automation-1E90FF?style=flat&logo=python)
