@@ -3,7 +3,7 @@
   <img src="assets/bitguard_cyan_banner.png" alt="younes - Cybersecurity Analyst Portfolio" width="800">
 </p>
 
-# 👋 Hi, I'm Younes Bouderbala  
+# 👋 Hi there , I'm Younes Bouderbala  
 **💻 Cybersecurity Analyst | IT Security & Network Solutions | Incident Response | SOC Automation | Threat Detection** <br><br/> 
 🔐 Passionate about protecting systems, building resilient networks, and delivering secure IT solutions.
 
