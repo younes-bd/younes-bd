@@ -8,13 +8,13 @@
 🔐 Passionate about protecting systems, building resilient networks, and delivering secure IT solutions.
 
 ---
-## 📌 About Me:  
+## 🙋‍♂️ About Me:  
 Cybersecurity analyst with hands-on expertise in threat detection, vulnerability assessment, incident response, and security automation.  
 Proficient in building, testing, and securing enterprise-grade environments using industry-standard tools and frameworks, including **NIST Cybersecurity Framework**, **Splunk**, **SIEM**, and **Cloud Security** platforms.  
 
 ---
 
-## 🛠 Core Competencies: 
+## 🔑 Core Competencies: 
 ![Python Security Automation](https://img.shields.io/badge/Python-Security_Automation-1E90FF?style=flat&logo=python)
 ![Threat Hunting](https://img.shields.io/badge/Threat-Hunting-FF4500?style=flat)
 ![SOC Operations](https://img.shields.io/badge/SOC-Operations-2E8B57?style=flat)
@@ -30,7 +30,7 @@ Proficient in building, testing, and securing enterprise-grade environments usin
 ![Security Automation](https://img.shields.io/badge/Security%20Automation-Advanced-red)
 ---
 
-<h2> 📂 Cybersecurity Projects:</h2>
+## 📂 Cybersecurity Projects:
 
    ### **1.📜 Incident Response & SOC Operations**
    - [**Use the NIST Cybersecurity Framework to respond to a security incident**](https://github.com/younes-bd/NISTFramework/)
@@ -51,7 +51,7 @@ Proficient in building, testing, and securing enterprise-grade environments usin
    - [**Network Traffic Analysis**](https://github.com/younes-bd/network-traffic-analysis/tree/main)
    - [**digital-forensics-case-study**](https://github.com/younes-bd/digital-forensics-case-study/tree/main)
 
-   ### **4.🛡️ Web & Cloud Security**
+   ### **4.🌐 Web & Cloud Security**
    - [**AWS Security Incident Simulation**](https://github.com/younes-bd/ActiveDirectoryLab/)
    - [**Azure Security Monitoring Lab**](https://github.com/younes-bd/ConductSecurityAudit/)
    - [**Apply filters to SQL queries**](https://github.com/younes-bd/SQLQueriesFilters/)
@@ -99,7 +99,6 @@ Proficient in building, testing, and securing enterprise-grade environments usin
 - [**ISC2: Certified in Cybersecurity (CC)**](https://www.credly.com/badges/f53c4706-5098-488d-b633-fdf47b7c7a22/public_url)
 
 
-
 ## 📊 Skills Matrix:
 | Category | Tools & Technologies |
 |----------|----------------------|
@@ -113,8 +112,7 @@ Proficient in building, testing, and securing enterprise-grade environments usin
 | Digital Forensics | Autopsy, FTK Imager, Volatility |
 
 
-<h2> 🤳 Connect with me:</h2>
-
+## 📫 Connect with me:
 [<img align="left" alt="younes-bd | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="younes-bd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="younes-bd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
