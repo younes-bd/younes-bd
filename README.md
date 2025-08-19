@@ -54,16 +54,6 @@ Proficient in building, testing, and securing enterprise-grade environments usin
    - [**Apply filters to SQL queries**](https://github.com/younes-bd/SQLQueriesFilters/)
    - [**Web App Penetration Testing**](https://github.com/younes-bd/web-app-penetration-testing/tree/main?tab=readme-ov-file#web-app-penetration-testing)
    
-  - [Active Directory Home Lab](https://github.com/younes-bd/ActiveDirectoryLab/)
-  - [Conduct a security audit](https://github.com/younes-bd/ConductSecurityAudit/)
-  - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/younes-bd/NISTFramework/)
-  - [Use Linux commands to manage file permissions](https://github.com/younes-bd/LinuxCommandsFileManage/)
-  - [Apply filters to SQL queries](https://github.com/younes-bd/SQLQueriesFilters/)
-  - [Analyze a vulnerable system for a small business](https://github.com/younes-bd/AnalyzeVulnerableSystem/)
-  - [Document an incident with an incident handler's journal](https://github.com/younes-bd/DocumentIncidentJournal/)
-  - [Finalize your incident handler's journal](https://github.com/younes-bd/FinalizeIncidentJournal/)
-  - [SOC Automation with Python](https://github.com/younes-bd/UpdateFilePython-/)
-
 ## 🧰 Tools & Technologies:
 - **Security:** Splunk, ELK, Suricata, MISP, Sysmon, OpenVAS  
 - **Networking:** Wireshark, TCPDump, Nmap  
